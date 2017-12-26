@@ -1,0 +1,10 @@
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\Test\bin\Debug\Test.exe.config
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\Test\bin\Debug\Test.exe
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\Test\bin\Debug\Test.pdb
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\Test\obj\Debug\Test.exe
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\Test\obj\Debug\Test.pdb
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\Test\bin\Debug\GDAXClient.dll
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\Test\bin\Debug\GDAXClient.pdb
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\Test\bin\Debug\Newtonsoft.Json.xml

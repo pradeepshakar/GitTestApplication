@@ -1,0 +1,9 @@
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\GDAXClient\bin\Debug\GDAXClient.dll
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\GDAXClient\bin\Debug\GDAXClient.pdb
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\GDAXClient\bin\Debug\Castle.Core.dll
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\GDAXClient\bin\Debug\Newtonsoft.Json.dll
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\GDAXClient\bin\Debug\Castle.Core.xml
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\GDAXClient\bin\Debug\Newtonsoft.Json.xml
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\GDAXClient\obj\Debug\GDAXClient.csprojResolveAssemblyReference.cache
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\GDAXClient\obj\Debug\GDAXClient.dll
+C:\Pradeep\Projects\gdax-csharp-master\gdax-csharp-master\GDAXClient\obj\Debug\GDAXClient.pdb
